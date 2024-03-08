@@ -63,8 +63,8 @@ git remote add origin http
 
 git push
 
+![Screenshot (886)](https://github.com/waquar-az/Chat_app_djangO_channel/assets/106869966/9a695b04-6579-415a-a706-d2ca734b47bf)
 
-![Screenshot (886)](https://github.com/waquar-az/Chat_App_Django/assets/106869966/a18af073-d44a-4084-888d-077c6b3fc0b0)
 
+![Screenshot (892)](https://github.com/waquar-az/Chat_app_djangO_channel/assets/106869966/ad1239e0-ee24-4cc6-98b6-cb49d089f5f3)
 
-![Screenshot (888)](https://github.com/waquar-az/Chat_App_Django/assets/106869966/5152945a-7fc7-47f6-a6d6-ac07e10431f3).
