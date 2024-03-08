@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">   
+    <title>home-page</title>
+  
+</head>
+<body>
+
+{%include 'header.html' %}
+
+<div style='text-align: center;'>
+    <h1>home page</h1>
+    <h4>You can create New group,type on url http://127.0.0.1:8000/type <--here </h4><br>
+    OR<br>
+    <h4>Click on below link to join a group</h4>
+{% comment %} ----some List og group name for chat--- {% endcomment %}
+    <div style="border: 1px solid black;">
+            <h5>click below a group-link to chat</h5>
+        <ul>
+            <li><a href='http://127.0.0.1:8000/india/'>india</a></li>
+            <li><a href='http://127.0.0.1:8000/pakistan/'>pakistan</a></li>
+            <li><a href='http://127.0.0.1:8000/srilanka/'>srilanka</a></li>
+            <li><a href='http://127.0.0.1:8000/japan/'>japan</a></li>
+            <li><a href='http://127.0.0.1:8000/china/'>china</a></li>
+            <li><a href='http://127.0.0.1:8000/Nepal/'>nepal</a></li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
